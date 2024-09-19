@@ -1,0 +1,7 @@
+google-cloud-aiplatform
+langchain
+streamlit
+langchain-core 
+langchain-google-vertexai
+python-dotenv
+langchain_community
